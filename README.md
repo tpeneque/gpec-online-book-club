@@ -16,3 +16,8 @@ The platform allows users to:
 - Jira Scrum Board
 - GitHub Repository
 - Agile Sprint Planning
+
+
+## Sprint Progress
+
+Initial Scrum and GitHub integration completed.
