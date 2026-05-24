@@ -1,27 +1,57 @@
-# Online Book Club Platform
+# GPEC Online Book Club Platform
 
-This repository supports the GPEC Scrum project using Jira and GitHub integration.
+## Project Overview
 
-The platform allows users to:
+The GPEC Online Book Club Platform is a collaborative web application designed to help users participate in online reading communities.
 
+This project was developed using Agile Scrum methodology with Jira and GitHub integration.
+
+---
+
+## Main Features
+
+### User Features
 - Browse and join book clubs
 - Vote on upcoming books
 - Participate in discussion threads
 - Track reading progress
 - Receive reading reminders
-- Interact with administrators and moderators
 
-## Technologies
+### Admin Features
+- Create and manage book clubs
+- Moderate discussions
+- Manage platform content
 
-- Jira Scrum Board
-- GitHub Repository
-- Agile Sprint Planning
+---
 
+## Scrum Workflow
 
-## Sprint Progress
+The project follows Scrum practices including:
 
-Initial Scrum and GitHub integration completed.
+- Product Backlog
+- Sprint Planning
+- User Stories
+- Story Points
+- Task Assignment
+- GitHub Branching Strategy
+- Pull Requests and Code Reviews
 
-## Book Club Module
+---
 
-Users can browse available book clubs and join discussion groups based on their reading interests.
+## Technologies Used
+
+- Jira Software
+- GitHub
+- Markdown Documentation
+- Agile Scrum Methodology
+
+---
+
+## Repository Structure
+
+```text
+main/
+ ├── README.md
+ ├── docs/
+ ├── src/
+ └── screenshots/
